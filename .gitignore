@@ -1,3 +1,4 @@
-node_modules/
-props.js
-package-lock.json
+\appsettings.Development.json
+\appsettings.json
+\bin
+\obj

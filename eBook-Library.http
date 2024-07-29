@@ -1,0 +1,6 @@
+@eBook_Library_HostAddress = http://localhost:5001
+
+GET {{eBook_Library_HostAddress}}/
+Accept: application/json
+
+###

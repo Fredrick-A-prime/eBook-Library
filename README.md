@@ -12,7 +12,7 @@ Description: This endpoint allows new users to register an account. A successful
 Request Body:
 
 JSON
-Copy code
+
 {
   "username": "string",
   "email": "string",
